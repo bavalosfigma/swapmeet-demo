@@ -1,0 +1,9 @@
+{
+  "[project]/src/components/map/canvas.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/map/canvas.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_0-l44ld._.js",
+      "static/chunks/src_components_map_canvas_tsx_1-9n0xj._.js"
+    ]
+  }
+}
